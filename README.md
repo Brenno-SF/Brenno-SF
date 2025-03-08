@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Java SpringBoot<br>🎯 Goals: Become a senior developer <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Java with SpringBoot<br>🎯 Goals: Become a senior developer <br>🎲 Fun fact: ...</p>
 
 ###
 
