@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2003🎯 Goals: Become a senior developer</p>
+<p align="left">✨ Creating bugs since 2003<br>🎯 Goals: Become a senior developer</p>
 
 ###
 
